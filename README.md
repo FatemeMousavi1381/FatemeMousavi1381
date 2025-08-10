@@ -34,8 +34,9 @@
 
 ## 📊 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatemeMousavi1381&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeMousavi1381&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FatemeMousavi1381&show_icons=true&theme=radical&cache_seconds=180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeMousavi1381&theme=radical&cache_seconds=180"/>
+  
 </p>
 
 ---
